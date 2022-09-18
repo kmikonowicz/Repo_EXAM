@@ -12,4 +12,19 @@ form {
   border: 10px dashed purple;
   width: 100%;
   min-height: 500px;
+}
+
+button.btn-primary {
+  background-color: black;
+  border-color: purple;
+}
+
+input.form-control {
+  background-color: yellow;
+  min-height: 3rem;
+}
+
+select.form-select {
+  background-color: yellow;
+  min-height: 3rem;
 }/*# sourceMappingURL=style.css.map */
