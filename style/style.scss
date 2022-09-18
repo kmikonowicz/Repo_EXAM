@@ -1,14 +1,13 @@
-:root{
-  $pierwszy-kolor: yellow;
-  $drugi-kolor: blue;
-}
-
-
 h1{
-  background-color: green;
-  font-size: clamp(2.3rem, 2.5vw, 1.8rem); 
+  background-color: rgb(122, 98, 122);
+  display: flex;
+  justify-content: center;
+  text-decoration: bold underline;
+  padding: 2rem;
 }
 
-row g-3{
-  background-color: red;
+form{
+  padding: 40px;
+  background-color: pink;
 }
+

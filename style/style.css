@@ -1,22 +1,14 @@
+h1 {
+  background-color: rgb(122, 98, 122);
+  display: flex;
+  justify-content: center;
+  text-decoration: underline;
+  padding: 2rem;
+}
 
-   h1{
-    padding: 2rem;
-    display:flex;
-    justify-content: center;
-    align-items: center;
-  }
-
-
-  body {
-    padding-left: 1rem;
-    padding-right: 1rem;
-  }
-
-  form {
-    min-height: 500px;
-  }
+form {
+  padding: 40px;
+  background-color: pink;
+}
 
 
-  .form-control{
-    min-height: 3rem;
-  }
