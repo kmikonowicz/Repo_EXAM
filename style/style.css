@@ -9,6 +9,7 @@ h1 {
 form {
   padding: 40px;
   background-color: pink;
-}
-
-
+  border: 10px dashed purple;
+  width: 100%;
+  min-height: 500px;
+}/*# sourceMappingURL=style.css.map */

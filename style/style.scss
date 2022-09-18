@@ -2,12 +2,15 @@ h1{
   background-color: rgb(122, 98, 122);
   display: flex;
   justify-content: center;
-  text-decoration: bold underline;
+  text-decoration: underline;
   padding: 2rem;
 }
 
 form{
   padding: 40px;
   background-color: pink;
+  border: 10px dashed purple;
+  width: 100%;
+  min-height: 500px;
 }
 
